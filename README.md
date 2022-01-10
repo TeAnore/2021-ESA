@@ -16,4 +16,4 @@ webtemplate-ee - web interface для Lab1.
 webtemplate-spring - web interface для Lab2.
 
 Пример отображения web interface
-![GUI](/Lab1/others/proof_img.png "GUI")
+![GUI](/Lab1/others/proof_img.PNG "GUI")
