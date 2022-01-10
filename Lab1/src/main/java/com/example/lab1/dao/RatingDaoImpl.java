@@ -15,7 +15,6 @@ public class RatingDaoImpl implements RatingDao {
     @PersistenceContext(unitName = "default")
     private EntityManager em;
 
-
     @Override
     public Rating get(Integer id) {
         return em.find(Rating.class, id);
