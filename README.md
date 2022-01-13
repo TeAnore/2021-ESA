@@ -21,6 +21,8 @@
 
 *webtemplate-spring - web interface для Lab2.
 
+# Примеры
+
 Пример отображения web interface для EE стэка
 ![GUI EE](/Lab1/others/proof_img.PNG "GUI EE")
 
