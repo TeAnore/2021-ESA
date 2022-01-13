@@ -30,8 +30,8 @@
 Web interface реализован на yarn, для просмтра требуется запустить yarn serve -port 8081 в каталогах webtemplate_ee для JavaEE или webtemplate_spring для spring соответсвенно и перейти по http://localhost:8081 для просмотра веб интерфейса.
 
 Примеры ответа в зависимости от заголовка:
-![XML Отввет](/Lab2/others/Lab3_XML_Response.PNG "XML Отввет")
-![Json Ответ](/Lab2/others/Lab3_Json_Response.PNG "Json Ответ")
+![XML respoce](/Lab2/others/Lab3_XML_Response.PNG "XML response")
+![Json response](/Lab2/others/Lab3_Json_Response.PNG "Json response")
 
 Примеры логирования событий и email уведомлений в таблицах:
 ![Event](/Lab2/others/Lab4_Log_Event.PNG "Event")
